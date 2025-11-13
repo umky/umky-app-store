@@ -1,11 +1,11 @@
 manifestVersion: 1
-id: sparkles-hello-world
+id: umky-app-beancount
 name: Hello World
 tagline: Replace this tagline with your app's tagline
 icon: https://svgur.com/i/mvA.svg
 category: Development
 version: "1.0.0"
-port: 4000
+port: 5006
 description: >-
   Add your app's description here.
 
