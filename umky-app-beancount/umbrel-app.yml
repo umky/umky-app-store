@@ -1,10 +1,10 @@
 manifestVersion: 1
 id: umky-app-beancount
-name: Hello World
+name: Fava Beancount
 tagline: Replace this tagline with your app's tagline
-icon: https://svgur.com/i/mvA.svg
-category: Development
-version: "1.0.0"
+icon: https://beancount.io/img/favicon.png
+category: Finances
+version: "1.30.7"
 port: 5006
 description: >-
   Add your app's description here.
@@ -12,16 +12,14 @@ description: >-
 
   You can also add newlines!
 
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+developer: Fava
+website: https://beancount.github.io/fava/
+submitter: Fava
+submission: https://github.com/beancount/fava
+repo: https://github.com/beancount/fava
+support: https://github.com/beancount/fava/issues
 gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://camo.githubusercontent.com/23d5717cca74ea23ea99a9c129a59635c863f2c7e5c88da9cc1ce35733c67241/68747470733a2f2f692e696d67626f782e636f6d2f7266623949375a772e706e67
 releaseNotes: >-
   Add what's new in the latest version of your app here.
 dependencies: []

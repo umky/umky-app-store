@@ -1,0 +1,28 @@
+manifestVersion: 1
+id: umky-app-gramps
+name: Gramps
+tagline: Replace this tagline with your app's tagline
+icon: https://www.grampsweb.org/logo.svg
+category: Development
+version: "25.11.0"
+port: 5056
+description: >-
+  Add your app's description here.
+
+
+  You can also add newlines!
+
+developer: Gramps
+website: https://www.grampsweb.org/install_setup/deployment/
+submitter: Gramps
+submission: https://github.com/gramps-project/gramps-web
+repo: https://github.com/gramps-project/gramps-web
+support: https://github.com/gramps-project/gramps-web/issues
+gallery:
+  - https://github.com/gramps-project/gramps-web/raw/main/screenshot.png
+releaseNotes: >-
+  Add what's new in the latest version of your app here.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""

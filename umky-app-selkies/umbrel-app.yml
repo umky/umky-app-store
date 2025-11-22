@@ -1,0 +1,28 @@
+manifestVersion: 1
+id: umky-app-selkies
+name: Selkies
+tagline: Replace this tagline with your app's tagline
+icon: https://selkies-project.github.io/selkies/assets/logo/icon-512x512.png
+category: Enviroment
+version: "1.6.2"
+port: 8081
+description: >-
+  Add your app's description here.
+
+
+  You can also add newlines!
+
+developer: Selkies
+website: https://selkies-project.github.io/selkies/start/#quick-start
+submitter: Selkies
+submission: https://github.com/selkies-project/selkies
+repo: https://github.com/selkies-project/selkies
+support: https://github.com/selkies-project/selkies/issues
+gallery:
+  - https://camo.githubusercontent.com/23d5717cca74ea23ea99a9c129a59635c863f2c7e5c88da9cc1ce35733c67241/68747470733a2f2f692e696d67626f782e636f6d2f7266623949375a772e706e67
+releaseNotes: >-
+  Add what's new in the latest version of your app here.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
