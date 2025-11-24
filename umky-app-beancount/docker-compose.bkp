@@ -1,0 +1,16 @@
+# replace original docker compose by the code below
+# replace volumes accordingly
+# run docker compose up -d from the folder
+
+version: "1.3"
+services:
+  fava:
+    container_name: fava
+    image: yegle/fava:latest
+    ports:
+      - 5000:5000
+    environment:
+      - BEANCOUNT_FILE=/data/example.bean
+    volumes:
+      - /home/umbrel/umbrel/app-data/umky-app-beancount/data/:/data
+    restart: unless-stopped

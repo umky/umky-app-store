@@ -1,0 +1,5 @@
+# replace original docker compose by the code below
+# replace ports accordingly
+# run docker compose up -d from the folder
+# refer to https://hub.docker.com/r/lsiobase/selkies
+# was not tested yet
